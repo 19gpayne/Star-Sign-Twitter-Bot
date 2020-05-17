@@ -1,0 +1,41 @@
+{
+  "description": "Dictionary for my twitter bot",
+  "words": [
+    {
+      "word": "Based on your twitter account, I'm guessing you're a gemini! Am I right?"
+    },
+    {
+      "word": "Based on your twitter account, I'm guessing you're a taurus! Am I right?"
+    },
+    {
+      "word": "Based on your twitter account, I'm guessing you're a leo! Am I right?"
+    },
+    {
+      "word": "Based on your twitter account, I'm guessing you're an aries! Am I right?"
+    },
+    {
+      "word": "Based on your twitter account, I'm guessing you're a cancer! Am I right?"
+    },
+    {
+      "word": "Based on your twitter account, I'm guessing you're a capricorn! Am I right?"
+    },
+    {
+      "word": "Based on your twitter account, I'm guessing you're an aquarius! Am I right?"
+    },
+    {
+      "word": "Based on your twitter account, I'm guessing you're a sagittarius! Am I right?"
+    },
+    {
+        "word": "Based on your twitter account, I'm guessing you're a virgo! Am I right?"
+    },
+    {
+        "word": "Based on your twitter account, I'm guessing you're a pisces! Am I right?"
+    },
+    {
+        "word": "Based on your twitter account, I'm guessing you're a scorpio! Am I right?"
+    },
+    {
+        "word": "Based on your twitter account, I'm guessing you're a libra! Am I right?"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "homophobia_detector_bot",
+  "version": "1.0.0",
+  "description": "Twitter bot to detect homophobic comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gwendolyn Payne",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1"
+  }
+}
