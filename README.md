@@ -1,2 +1,2 @@
 # Star sign twitter bot
-A twitter bot that detects tweets that contain homophobic sentiments
+A twitter bot that randomly guesses your astrological star sign! Just for fun
